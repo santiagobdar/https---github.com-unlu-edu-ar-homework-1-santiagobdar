@@ -2,7 +2,7 @@
 # Nombre de archivo: hw0.py
 # El repositorio donde esta tu HW0 es: https://github.com/unlu-edu-ar/homework-1-santiagobdar
 # Completa con tu nombre, apellido y DNI
-# Nombre y Apellido: Santiago E. Bdar 
+# Nombre y Apellido: Santiago Bdar 
 # DNI:45738134
 ################################################################################################
 
